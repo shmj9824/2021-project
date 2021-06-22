@@ -8,7 +8,7 @@
   在 COVID-19 疫情期間，很多線上購物的貨運服務都受到了影響，暗網市集賣家也不例外。他們也很注意自己的信譽名聲(reputation)，因為有高信譽分數的賣家能更容易招攬更多的顧客。例如一間魔幻蘑菇 (magic mushroom) 的賣家就對客戶發出公告，表示運送貨品的時程會因受限於郵箱取貨而推遲。
 此外，洗錢服務也受到影響，例如有些賣家是透過假的 Airbnb 設施來洗錢：假客戶對 Airbnb 訂房並且完成付費，但是並沒有真的去入住。由於疫情期間很多地區的 Airbnb 都被關閉，此洗錢手法就無法使用。疫情期間相關的藥物、個人防護設備 (PPE)、甚至是疫苗都供不應求，這也為犯罪份子創造了以 COVID-19 為情境主題的詐騙機會。
 ### 個人觀點
-  以上兩個期刊，趨勢是全球受COVID-19影響，需要居家辦公，多數的企業使用Microsoftw推出的teams或是google推出的zoom來做線上會議或是討論，如果進行竊聽會相當方便；學校部分也會使用線上上課，暗網上有相當數量的戀童癖或是心理變態的人特別喜歡小孩子，可以入侵生活圈來滿足自己的需求，在暗網上有很多未成年的兒童演出色情片，能有這推論也實屬合理吧~
+*  以上兩個期刊，趨勢是全球受COVID-19影響，需要居家辦公，多數的企業使用Microsoftw推出的teams或是google推出的zoom來做線上會議或是討論，如果進行竊聽會相當方便；學校部分也會使用線上上課，暗網上有相當數量的戀童癖或是心理變態的人特別喜歡小孩子，可以入侵生活圈來滿足自己的需求，在暗網上有很多未成年的兒童演出色情片，能有這推論也實屬合理吧~
 ## 香港經濟日報
 ### 暗網售價曝光　社交媒體帳號全面貶值(引用)
   Privacy Affairs報告指出，暗網中的假證件、信用卡與社交媒體帳戶的交易量比去年大增，其中一間販賣信用卡資料的黑市商人，短短半年已累積超過1,000次交易，而且有600個好評，售賣的種類包括Uber帳號以及虛擬貨幣交易帳號等。
@@ -22,7 +22,12 @@
 ### 暗網能購買Covid-19疫苗跟注射疫苗證明或是陰性檢驗報告(引用)
   Covid-19 vaccines, vaccine passports and faked negative test papers are being sold on the darknet.
   Prices range between $500 (£360) and $750 for doses of AstraZeneca, Sputnik, Sinopharm or Johnson & Johnson jabs.Fake vaccination certificates are also being sold by anonymous traders for as little as $150.
-  疫苗價格在美金500元到750元之間，AZ疫苗，Sputnik(俄國)，Sinopharm(中共)，嬌生
+  The vaccines advertised include the Oxford-AstraZeneca at $500, and Johnson & Johnson and Sputnik each at $600, and Sinopharm at $750.
+  
+  疫苗價格在美金500元到750元之間，AZ疫苗(500元)、Sputnik(俄國)(750元)、Sinopharm(中共)(600元)、嬌生(600元)等疫苗均可買到，假的度假簽證賣150美金。
+  * 購買畫面
+  ![image](https://user-images.githubusercontent.com/34079799/122907126-67c4e480-d385-11eb-892a-c2a561ca76df.png)
+
 Researchers say they have seen a "sharp increase" in vaccine-related darknet adverts, while the BBC has been unable to verify if the vaccines are real.The darknet, also known as the dark web, is a portion of the internet that is only accessible through specific browser tools.
 
 ![image](https://user-images.githubusercontent.com/34079799/122902491-1155a700-d381-11eb-9208-855349c58ae0.png)
