@@ -14,10 +14,17 @@
   Privacy Affairs報告指出，暗網中的假證件、信用卡與社交媒體帳戶的交易量比去年大增，其中一間販賣信用卡資料的黑市商人，短短半年已累積超過1,000次交易，而且有600個好評，售賣的種類包括Uber帳號以及虛擬貨幣交易帳號等。
   不過根據統計，社交媒體帳號對比2020年已全面貶值，如Gmail帳號在去年售156美元（約1210港元），今年平均則僅賣到80美元（約620港元），而且Gmail帳號已是社交媒體中，最值錢的帳號。Facebook的帳號售價則為65美元（約504港元）、Instagram帳號則售55美元（約426港元）、Twitter帳號售價則為35美元（271港元）。
 ## INSIDE
-### 規模 1.4 億歐元！大型暗網「DarkMarket」遭攻破
+### 規模 1.4 億歐元！大型暗網「DarkMarket」遭攻破(引用)
   歐洲刑警組織（Europol）今天公開表示他們攻破了另一個大型暗網交易網站「DarkMarket」，其註冊用戶約有 50 萬人、賣家約 2400 位、交易紀錄超過 32 萬筆， 根據紀錄完成交易額有 4,650 枚比特幣與 12,800 枚門羅幣 （約 1.4 億歐元）。
 歐洲刑警組織這次也在德國-丹麥邊境涉嫌營運 DarkMarket 的澳洲籍男子，並一口氣關掉遍佈在烏克蘭、摩爾多瓦 20 多座伺服器。
   DarkMarket 跟其他暗網商城一樣充斥毒品交易、被盜的信用卡資料與各式各樣的駭客工具。但值得注意的是，DarkMarket 會被查破，則是跟有「暗黑 AWS」的伺服器託管商 Cyber​​Bunker 遭查緝展開的一系列後續調查有關。
+## BBC NEWS (引文翻譯)
+### 暗網能購買Covid-19疫苗跟注射疫苗證明或是陰性檢驗報告(引用)
+  Covid-19 vaccines, vaccine passports and faked negative test papers are being sold on the darknet.
+  Prices range between $500 (£360) and $750 for doses of AstraZeneca, Sputnik, Sinopharm or Johnson & Johnson jabs.Fake vaccination certificates are also being sold by anonymous traders for as little as $150.
+  疫苗價格在美金500元到750元之間，AZ疫苗，Sputnik(俄國)，Sinopharm(中共)，嬌生
+Researchers say they have seen a "sharp increase" in vaccine-related darknet adverts, while the BBC has been unable to verify if the vaccines are real.The darknet, also known as the dark web, is a portion of the internet that is only accessible through specific browser tools.
+
 ![image](https://user-images.githubusercontent.com/34079799/122902491-1155a700-d381-11eb-9208-855349c58ae0.png)
 
 ### 參考資料
